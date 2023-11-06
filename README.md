@@ -1,4 +1,7 @@
-### Hi there 👋
+CS Student currently studying at the University of Constance 🌊.
+
+I am specializing in HCI but am also interested in data visualization and computational social science.
+I use mostly free software and try to find the sweet spot between minimalism/low-technology, privacy and good user experience.
 
 <!--
 **paulenit/paulenit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
